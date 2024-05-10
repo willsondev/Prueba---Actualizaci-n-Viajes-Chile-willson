@@ -1,0 +1,15 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+@import "./abstracts/variables";
+@import "./base/base";
+@import "./base/reset";
+@import "./components/navbar";
+@import "./components/carousel";
+@import "./components/cards";
+@import "./components/testimonials";
+@import "./components/contact-form";
+@import "./layout/grid";
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/sections';

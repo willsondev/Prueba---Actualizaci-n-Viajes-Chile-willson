@@ -1,0 +1,40 @@
+
+.testimonios {
+    
+    padding: 5rem 0;
+}
+
+.testimonios-title {
+  
+    font-size: 2rem;
+    color: #ffffff; 
+}
+
+
+.testimonios .card {
+ 
+    border: none;
+}
+
+
+.testimonios .card-body {
+   
+    padding: 1.5rem;
+}
+
+
+.testimonios .card-footer {
+ 
+    border-top: none;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+
+.testimonios .card-footer img {
+
+    border-radius: 50%; 
+    margin-bottom: 0.75rem;
+}

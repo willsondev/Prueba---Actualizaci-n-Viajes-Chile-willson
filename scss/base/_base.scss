@@ -1,0 +1,38 @@
+$font-pt-mono: 'PT Mono', monospace;
+$font-roboto: 'Roboto', sans-serif;
+
+
+body {
+  font-family: $font-roboto; 
+  overflow-y: auto; 
+   background-color: #000000;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-pt-mono; 
+}
+
+p {
+  font-family: $font-roboto; 
+}
+.texto-blanco {
+    color: #ffffff; // Color blanco
+}
+
+.normal-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+
+.bold-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+.card_fondo{
+   background-color: #000000;
+}
+
+
+
